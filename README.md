@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSTAR-NL
-- 👀 I’m interested in Bio-informatics and Technology development in food & water security
-- 🌱 I’m looking to learn and collaborate on Bio-informatics & Tech dev.
+- 👀 Focussed on Technology development related to bio-based economy & food & water security
+- 🌱 I’m looking to collaborate on Github with a variety of technology based developments that include IT, and need help comming up with some awsome code and fitting systems that support these technologies.
 
 
 <!---

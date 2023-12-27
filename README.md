@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSTAR-NL
-- 👀 Focussed on Technology development related to bio-based economy & food & water security
-- 🌱 I’m looking to collaborate on Github with a variety of technology based developments that include IT, and need help comming up with some awsome code and fitting systems that support these technologies.
+- 👀 Focussed on bio-based and/or circular Technology Development related to; chemicals, food, energy & water
+- 🌱 looking to collaborate on Github to further develope a variety of technology concepts and find fitting demographics and settings for implementation. 
 
 
 <!---
